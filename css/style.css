@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+html {
+    font-size: 10px;
+    background-color: #e5e5e5;
+align-content: center;
+}
+
+body {
+    max-width: 1170px;
+    font-family: 'Open Sans';
+    color: #333332;
+    margin: 0 auto;
+    font-size: 1.6rem;
+    line-height: 38px;
+    background: #e5e5e5;
+}
+
+main {
+    max-width: 1170px;
+
+}
+
+.firstSection {
+    max-width: 1170px;
+    margin: 30px;
+}
+
+.shapka {
+    display: flex;
+    flex-direction: row;
+    max-width: 780px;
+}
+
+.slider {
+    height: 400px;
+    color: white;
+    text-decoration-line: none;
+    vertical-align: middle;
+    Background-size: 1170px;
+    background-image: url("../img/slider.jpeg");
+    background-position: center;
+    text-align: center;
+}
+
+
+
+main img {
+    max-width: 780px;
+}
